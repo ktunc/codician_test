@@ -1,6 +1,6 @@
-# codician_test
+## codician_test (only codes)
 1. Install Laravel => https://laravel.com/docs/7.x/installation
-2. Copy and paste all folder
+2. Copy and paste all folder from this page to your project.
 3. Open terminal in project folder
 4. Run in terminal "php artisan migrate" or execute test_app.sql file.
 5. Run in terminal "php artisan storage:link"
